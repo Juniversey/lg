@@ -1,4 +1,4 @@
-# This is developed by Juniverse (焦宇)
+# This is developed by Juniverse 
 # -*-coding:utf-8-*-
 # create_time :2018/6/28 15:41
 import re
